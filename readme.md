@@ -9,4 +9,4 @@
 
 * Cuando hacemos un push, lo que hace el git es comprimir el\/los archivo\/s que queremos subir, una vez compreso, los envia a nuestro repositorio.
 
-  ![Al hacer un push](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_3.PNG?raw=true)
+  ![Ejemplo de lo que pasa al hacer un push](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_3.PNG?raw=true)
