@@ -30,3 +30,6 @@
 
   
 * Finalmente comprobamos que todo se ha subido correctamente a nuestro repositorio de GitHub.
+
+    ![Ejemplo del comando para agrerar el repositorio](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_6.PNG?raw=true)
+    
