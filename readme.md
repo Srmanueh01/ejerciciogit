@@ -18,6 +18,14 @@
 
 * Tenemos que crear un repositorio en gitHub, una vez creado, más abajo nos sale unas intrucciones con una URL de como tenemos que añadir nuestro repositorio, copiamos la URL y en el git escribimos "git remote add origin InsertarURL".
 
+* Si volvemos a escribir "git remote -v" nos dirá que nuestro repositorio local ya está vilculado con el que tenemos en GitHub.
+
     ![Ejemplo del comando para agrerar el repositorio](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_5.PNG?raw=true)
+
+* Para subir los datos a nustro repositorio, recordemos que tenemos que hacer los siguientes pasos: 
+  
+  + git add . ó el nombre del o los archivos específicos.
+  + git commit -m "NombreDeLaVersion".
+  + git push
 
   
