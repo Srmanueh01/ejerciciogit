@@ -7,4 +7,4 @@
 ![Imágen de git status antes de hacer un commit](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_1.PNG?raw=true)
 ![Después de haber hecho un commit](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_2.PNG?raw=true)
 
-*Cuando hacemos un push, lo que hace el git es comprimir el\/los archivo\/s que queremos subir, una vez compreso, los envia a nuestro repositorio.
+* Cuando hacemos un push, lo que hace el git es comprimir el\/los archivo\/s que queremos subir, una vez compreso, los envia a nuestro repositorio.
