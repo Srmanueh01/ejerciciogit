@@ -5,4 +5,4 @@
 * Cuando hacemos "git status", nos muestra que tenemos nuevos archivos por subir, pero que aún no me hemos hecho nada con ellos, cuando hacemos el "git commit -m \'NombreDelArchivo\'", el archivo se prepara para realizar un push. 
 
 ![Imágen de git status antes de hacer un commit](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_1.PNG?raw=true)
-![Después de haber hecho un commit]([https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_1.PNG?raw=true](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_2.PNG?raw=true))
+![Después de haber hecho un commit](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_2.PNG?raw=true)
