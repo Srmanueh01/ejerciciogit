@@ -3,3 +3,5 @@
   
 * Para crear un archivo .md podemos hacerlo desde la consola, escribiendo "touch nombreDelArchivo + la extensión ó simplemente click derecho, crear un nuevo archivo de texto y lo creamos, no nos olvidemos cambiarle el formato a .md
 * Cuando hacemos "git status", nos muestra que tenemos nuevos archivos por subir, pero que aún no me hemos hecho nada con ellos, cuando hacemos el "git commit -m \'NombreDelArchivo\'", el archivo se prepara para realizar un push. 
+
+![Aquí la descripción de la imagen por si no carga](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_1.PNG?raw=true)
