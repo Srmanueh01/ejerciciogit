@@ -18,4 +18,6 @@
 
 * Tenemos que crear un repositorio en gitHub, una vez creado, más abajo nos sale unas intrucciones con una URL de como tenemos que añadir nuestro repositorio, copiamos la URL y en el git escribimos "git remote add origin InsertarURL".
 
+    ![Ejemplo del comando para agrerar el repositorio](https://github.com/Srmanueh01/ejerciciogit/blob/master/captura_5.PNG?raw=true)
+
   
