@@ -29,3 +29,4 @@
   + git push
 
   
+* Finalmente comprobamos que todo se ha subido correctamente a nuestro repositorio de GitHub.
